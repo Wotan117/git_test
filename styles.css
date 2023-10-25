@@ -13,24 +13,36 @@
 }
 
 .container-one {
-    border: 4px solid indigo;
     display: flex;
     justify-content: space-between;
 }
 
 .container {
-    border: 4px solid indigo;
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 350px;
+}
+
+.container-two {
+    display: flex;
+    border: 4px solid brown;
 }
   
 .item {
     border: 4px solid indigo;
     height: 20px;
 }
-.clown {
-    background: #E5E7EB;
-    align-items: center
+
+.horus {
+
+}
+
+.horus div {
+    background: red;
+    align-items: center;
+    border: 4px solid brown;
+    color: red;
+    height: 300px;
+    
 }
