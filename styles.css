@@ -35,10 +35,13 @@
 }
 
 .horus {
+    display: flex;
+    align-items: center;
 
 }
 
 .horus div {
+    display: flex;
     background: red;
     align-items: center;
     border: 4px solid brown;

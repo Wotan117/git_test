@@ -1,0 +1,9 @@
+.first {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.object {
+    display: flex;
+    flex-direction: column;
+}
